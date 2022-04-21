@@ -1,1 +1,2 @@
 Just test for sure that GitHub won't eliminate my code.
+Just add something (From New stone branch)
